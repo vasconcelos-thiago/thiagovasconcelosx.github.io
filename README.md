@@ -45,7 +45,7 @@ Na Faculdade Pitágoras, cursei ciências da computação de 2017 à 2020 (até 
 </div>
   
 ##
-  <a href="https://twitter.com/ThiagoFx00/#" target="_blank"><img src="https://img.shields.io/twitter/follow/ThiagoFx00?style=social" target="_blank"></a> <br>
+  <a href="https://twitter.com/ThiagoFx00/#" target="_blank"> <img src="https://img.shields.io/twitter/follow/ThiagoFx00?style=social" target="_blank"></a> <br>
   <a href="https://instagram.com/otherthiago" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:vasconcelosthx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
